@@ -1,0 +1,10 @@
+c:\users\chakravarthy.sudha\source\repos\ImageResizer\ImageResizer\bin\Debug\ImageResizer.exe.config
+c:\users\chakravarthy.sudha\source\repos\ImageResizer\ImageResizer\bin\Debug\ImageResizer.exe
+c:\users\chakravarthy.sudha\source\repos\ImageResizer\ImageResizer\bin\Debug\ImageResizer.pdb
+c:\users\chakravarthy.sudha\source\repos\ImageResizer\ImageResizer\obj\Debug\ImageResizer.csprojResolveAssemblyReference.cache
+c:\users\chakravarthy.sudha\source\repos\ImageResizer\ImageResizer\obj\Debug\ImageResizer.Form1.resources
+c:\users\chakravarthy.sudha\source\repos\ImageResizer\ImageResizer\obj\Debug\ImageResizer.Properties.Resources.resources
+c:\users\chakravarthy.sudha\source\repos\ImageResizer\ImageResizer\obj\Debug\ImageResizer.csproj.GenerateResource.cache
+c:\users\chakravarthy.sudha\source\repos\ImageResizer\ImageResizer\obj\Debug\ImageResizer.csproj.CoreCompileInputs.cache
+c:\users\chakravarthy.sudha\source\repos\ImageResizer\ImageResizer\obj\Debug\ImageResizer.exe
+c:\users\chakravarthy.sudha\source\repos\ImageResizer\ImageResizer\obj\Debug\ImageResizer.pdb
