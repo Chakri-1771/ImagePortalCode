@@ -1,0 +1,6 @@
+C:\Users\chakravarthy.sudha\Documents\Visual Studio 2015\Projects\CreateStaplesASNFiles\CreateStaplesASNFiles\bin\Debug\CreateStaplesASNFiles.exe.config
+C:\Users\chakravarthy.sudha\Documents\Visual Studio 2015\Projects\CreateStaplesASNFiles\CreateStaplesASNFiles\bin\Debug\CreateStaplesASNFiles.exe
+C:\Users\chakravarthy.sudha\Documents\Visual Studio 2015\Projects\CreateStaplesASNFiles\CreateStaplesASNFiles\bin\Debug\CreateStaplesASNFiles.pdb
+C:\Users\chakravarthy.sudha\Documents\Visual Studio 2015\Projects\CreateStaplesASNFiles\CreateStaplesASNFiles\obj\Debug\CreateStaplesASNFiles.exe
+C:\Users\chakravarthy.sudha\Documents\Visual Studio 2015\Projects\CreateStaplesASNFiles\CreateStaplesASNFiles\obj\Debug\CreateStaplesASNFiles.pdb
+C:\Users\chakravarthy.sudha\Documents\Visual Studio 2015\Projects\CreateStaplesASNFiles\CreateStaplesASNFiles\obj\Debug\CreateStaplesASNFiles.csprojResolveAssemblyReference.cache

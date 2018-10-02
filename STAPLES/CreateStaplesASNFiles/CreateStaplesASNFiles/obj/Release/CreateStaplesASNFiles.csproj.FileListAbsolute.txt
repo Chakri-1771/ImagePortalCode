@@ -1,0 +1,5 @@
+C:\Users\chakravarthy.sudha\Documents\Visual Studio 2015\Projects\CreateStaplesASNFiles\CreateStaplesASNFiles\bin\Release\CreateStaplesASNFiles.exe.config
+C:\Users\chakravarthy.sudha\Documents\Visual Studio 2015\Projects\CreateStaplesASNFiles\CreateStaplesASNFiles\bin\Release\CreateStaplesASNFiles.exe
+C:\Users\chakravarthy.sudha\Documents\Visual Studio 2015\Projects\CreateStaplesASNFiles\CreateStaplesASNFiles\bin\Release\CreateStaplesASNFiles.pdb
+C:\Users\chakravarthy.sudha\Documents\Visual Studio 2015\Projects\CreateStaplesASNFiles\CreateStaplesASNFiles\obj\Release\CreateStaplesASNFiles.exe
+C:\Users\chakravarthy.sudha\Documents\Visual Studio 2015\Projects\CreateStaplesASNFiles\CreateStaplesASNFiles\obj\Release\CreateStaplesASNFiles.pdb

@@ -1,0 +1,6 @@
+C:\Users\chakravarthy.sudha\Documents\Visual Studio 2015\Projects\CreateStaplesInvoiceFiles\CreateStaplesInvoiceFiles\bin\Debug\CreateStaplesInvoiceFiles.exe.config
+C:\Users\chakravarthy.sudha\Documents\Visual Studio 2015\Projects\CreateStaplesInvoiceFiles\CreateStaplesInvoiceFiles\bin\Debug\CreateStaplesInvoiceFiles.exe
+C:\Users\chakravarthy.sudha\Documents\Visual Studio 2015\Projects\CreateStaplesInvoiceFiles\CreateStaplesInvoiceFiles\bin\Debug\CreateStaplesInvoiceFiles.pdb
+C:\Users\chakravarthy.sudha\Documents\Visual Studio 2015\Projects\CreateStaplesInvoiceFiles\CreateStaplesInvoiceFiles\obj\Debug\CreateStaplesInvoiceFiles.csprojResolveAssemblyReference.cache
+C:\Users\chakravarthy.sudha\Documents\Visual Studio 2015\Projects\CreateStaplesInvoiceFiles\CreateStaplesInvoiceFiles\obj\Debug\CreateStaplesInvoiceFiles.exe
+C:\Users\chakravarthy.sudha\Documents\Visual Studio 2015\Projects\CreateStaplesInvoiceFiles\CreateStaplesInvoiceFiles\obj\Debug\CreateStaplesInvoiceFiles.pdb

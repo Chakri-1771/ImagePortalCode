@@ -1,0 +1,6 @@
+c:\users\chakravarthy.sudha\documents\visual studio 2015\Projects\CreateStaplesPOConfirmation\CreateStaplesPOConfirmation\bin\Debug\CreateStaplesPOConfirmation.exe.config
+c:\users\chakravarthy.sudha\documents\visual studio 2015\Projects\CreateStaplesPOConfirmation\CreateStaplesPOConfirmation\bin\Debug\CreateStaplesPOConfirmation.exe
+c:\users\chakravarthy.sudha\documents\visual studio 2015\Projects\CreateStaplesPOConfirmation\CreateStaplesPOConfirmation\bin\Debug\CreateStaplesPOConfirmation.pdb
+c:\users\chakravarthy.sudha\documents\visual studio 2015\Projects\CreateStaplesPOConfirmation\CreateStaplesPOConfirmation\obj\Debug\CreateStaplesPOConfirmation.exe
+c:\users\chakravarthy.sudha\documents\visual studio 2015\Projects\CreateStaplesPOConfirmation\CreateStaplesPOConfirmation\obj\Debug\CreateStaplesPOConfirmation.pdb
+C:\Users\chakravarthy.sudha\Documents\Visual Studio 2015\Projects\CreateStaplesPOConfirmation\CreateStaplesPOConfirmation\obj\Debug\CreateStaplesPOConfirmation.csprojResolveAssemblyReference.cache

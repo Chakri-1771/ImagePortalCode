@@ -1,0 +1,5 @@
+C:\Users\chakravarthy.sudha\Documents\Visual Studio 2015\Projects\CreateStaplesInvoiceFiles\CreateStaplesInvoiceFiles\bin\Release\CreateStaplesInvoiceFiles.exe.config
+C:\Users\chakravarthy.sudha\Documents\Visual Studio 2015\Projects\CreateStaplesInvoiceFiles\CreateStaplesInvoiceFiles\bin\Release\CreateStaplesInvoiceFiles.exe
+C:\Users\chakravarthy.sudha\Documents\Visual Studio 2015\Projects\CreateStaplesInvoiceFiles\CreateStaplesInvoiceFiles\bin\Release\CreateStaplesInvoiceFiles.pdb
+C:\Users\chakravarthy.sudha\Documents\Visual Studio 2015\Projects\CreateStaplesInvoiceFiles\CreateStaplesInvoiceFiles\obj\Release\CreateStaplesInvoiceFiles.exe
+C:\Users\chakravarthy.sudha\Documents\Visual Studio 2015\Projects\CreateStaplesInvoiceFiles\CreateStaplesInvoiceFiles\obj\Release\CreateStaplesInvoiceFiles.pdb

@@ -1,0 +1,8 @@
+c:\users\chakravarthy.sudha\documents\visual studio 2015\Projects\POSTStaplesJSONOrders\POSTStaplesJSONOrders\bin\Debug\POSTStaplesJSONOrders.exe.config
+c:\users\chakravarthy.sudha\documents\visual studio 2015\Projects\POSTStaplesJSONOrders\POSTStaplesJSONOrders\bin\Debug\POSTStaplesJSONOrders.exe
+c:\users\chakravarthy.sudha\documents\visual studio 2015\Projects\POSTStaplesJSONOrders\POSTStaplesJSONOrders\bin\Debug\POSTStaplesJSONOrders.pdb
+c:\users\chakravarthy.sudha\documents\visual studio 2015\Projects\POSTStaplesJSONOrders\POSTStaplesJSONOrders\bin\Debug\Newtonsoft.Json.dll
+c:\users\chakravarthy.sudha\documents\visual studio 2015\Projects\POSTStaplesJSONOrders\POSTStaplesJSONOrders\bin\Debug\Newtonsoft.Json.xml
+c:\users\chakravarthy.sudha\documents\visual studio 2015\Projects\POSTStaplesJSONOrders\POSTStaplesJSONOrders\obj\Debug\POSTStaplesJSONOrders.exe
+c:\users\chakravarthy.sudha\documents\visual studio 2015\Projects\POSTStaplesJSONOrders\POSTStaplesJSONOrders\obj\Debug\POSTStaplesJSONOrders.pdb
+C:\Users\chakravarthy.sudha\Documents\Visual Studio 2015\Projects\POSTStaplesJSONOrders\POSTStaplesJSONOrders\obj\Debug\POSTStaplesJSONOrders.csprojResolveAssemblyReference.cache

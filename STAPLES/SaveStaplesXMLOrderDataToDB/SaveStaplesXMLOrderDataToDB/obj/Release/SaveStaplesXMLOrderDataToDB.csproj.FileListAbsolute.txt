@@ -1,0 +1,6 @@
+C:\Users\chakravarthy.sudha\Documents\Visual Studio 2015\Projects\SaveStaplesXMLOrderDataToDB\SaveStaplesXMLOrderDataToDB\bin\Release\SaveStaplesXMLOrderDataToDB.exe.config
+C:\Users\chakravarthy.sudha\Documents\Visual Studio 2015\Projects\SaveStaplesXMLOrderDataToDB\SaveStaplesXMLOrderDataToDB\bin\Release\SaveStaplesXMLOrderDataToDB.exe
+C:\Users\chakravarthy.sudha\Documents\Visual Studio 2015\Projects\SaveStaplesXMLOrderDataToDB\SaveStaplesXMLOrderDataToDB\bin\Release\SaveStaplesXMLOrderDataToDB.pdb
+C:\Users\chakravarthy.sudha\Documents\Visual Studio 2015\Projects\SaveStaplesXMLOrderDataToDB\SaveStaplesXMLOrderDataToDB\obj\Release\SaveStaplesXMLOrderDataToDB.csprojResolveAssemblyReference.cache
+C:\Users\chakravarthy.sudha\Documents\Visual Studio 2015\Projects\SaveStaplesXMLOrderDataToDB\SaveStaplesXMLOrderDataToDB\obj\Release\SaveStaplesXMLOrderDataToDB.exe
+C:\Users\chakravarthy.sudha\Documents\Visual Studio 2015\Projects\SaveStaplesXMLOrderDataToDB\SaveStaplesXMLOrderDataToDB\obj\Release\SaveStaplesXMLOrderDataToDB.pdb
