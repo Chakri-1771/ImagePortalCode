@@ -1,0 +1,8 @@
+c:\users\chakravarthy.sudha\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\Release\UploadFile.exe.config
+c:\users\chakravarthy.sudha\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\Release\UploadFile.exe
+c:\users\chakravarthy.sudha\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\Release\UploadFile.pdb
+c:\users\chakravarthy.sudha\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\Release\Newtonsoft.Json.dll
+c:\users\chakravarthy.sudha\documents\visual studio 2015\Projects\UploadFile\UploadFile\bin\Release\Newtonsoft.Json.xml
+c:\users\chakravarthy.sudha\documents\visual studio 2015\Projects\UploadFile\UploadFile\obj\Release\UploadFile.csprojResolveAssemblyReference.cache
+c:\users\chakravarthy.sudha\documents\visual studio 2015\Projects\UploadFile\UploadFile\obj\Release\UploadFile.exe
+c:\users\chakravarthy.sudha\documents\visual studio 2015\Projects\UploadFile\UploadFile\obj\Release\UploadFile.pdb

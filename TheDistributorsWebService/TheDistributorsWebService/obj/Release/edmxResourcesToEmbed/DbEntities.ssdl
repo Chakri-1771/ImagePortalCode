@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="POC_DBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'POC_DB.dbo.tbl_REST_TokenDetails' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="tbl_REST_TokenDetails">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="CustomerName" Type="varchar" MaxLength="50" />
+    <Property Name="ClientID" Type="varchar" MaxLength="50" />
+    <Property Name="ClientKey" Type="varchar" MaxLength="50" />
+    <Property Name="Token" Type="varchar" MaxLength="50" />
+    <Property Name="CreatedDate" Type="smalldatetime" />
+    <Property Name="Active" Type="bit" />
+  </EntityType>
+  <EntityContainer Name="POC_DBModelStoreContainer">
+    <EntitySet Name="tbl_REST_TokenDetails" EntityType="Self.tbl_REST_TokenDetails" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [tbl_REST_TokenDetails].[ID] AS [ID], 
+    [tbl_REST_TokenDetails].[CustomerName] AS [CustomerName], 
+    [tbl_REST_TokenDetails].[ClientID] AS [ClientID], 
+    [tbl_REST_TokenDetails].[ClientKey] AS [ClientKey], 
+    [tbl_REST_TokenDetails].[Token] AS [Token], 
+    [tbl_REST_TokenDetails].[CreatedDate] AS [CreatedDate], 
+    [tbl_REST_TokenDetails].[Active] AS [Active]
+    FROM [dbo].[tbl_REST_TokenDetails] AS [tbl_REST_TokenDetails]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="POC_DBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tbl_REST_TokenDetails">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="CustomerName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ClientID" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ClientKey" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Token" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CreatedDate" Type="DateTime" Precision="0" />
+    <Property Name="Active" Type="Boolean" />
+  </EntityType>
+  <EntityContainer Name="POC_DBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tbl_REST_TokenDetails" EntityType="Self.tbl_REST_TokenDetails" />
+  </EntityContainer>
+</Schema>
